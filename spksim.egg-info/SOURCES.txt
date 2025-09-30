@@ -1,0 +1,14 @@
+README.md
+setup.py
+spksim/__init__.py
+spksim/cli.py
+spksim/config.py
+spksim/core.py
+spksim/manager.py
+spksim/utils.py
+spksim.egg-info/PKG-INFO
+spksim.egg-info/SOURCES.txt
+spksim.egg-info/dependency_links.txt
+spksim.egg-info/entry_points.txt
+spksim.egg-info/requires.txt
+spksim.egg-info/top_level.txt

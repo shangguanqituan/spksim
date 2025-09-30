@@ -1,0 +1,8 @@
+onnxruntime
+torch
+torchaudio
+transformers
+librosa
+numpy
+tqdm
+huggingface_hub

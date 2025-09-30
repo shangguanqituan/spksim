@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: spksim
+Version: 0.4.0
+Requires-Dist: onnxruntime
+Requires-Dist: torch
+Requires-Dist: torchaudio
+Requires-Dist: transformers
+Requires-Dist: librosa
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: huggingface_hub
+Dynamic: requires-dist

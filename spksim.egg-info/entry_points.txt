@@ -1,0 +1,2 @@
+[console_scripts]
+spksim = spksim.cli:main

@@ -1,0 +1,2 @@
+sample_1|examples/reference_audio/ref_1.wav
+sample_2|examples/reference_audio/ref_2.wav
