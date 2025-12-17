@@ -1,2 +1,2 @@
-sample_1|examples/reference_audio/ref_1.wav
-sample_2|examples/reference_audio/ref_2.wav
+/data0/sgqt7/spksim/examples/candidate_audio/sample_1.wav|/data0/sgqt7/spksim/examples/reference_audio/ref_1.wav
+/data0/sgqt7/spksim/examples/candidate_audio/sample_2.wav|/data0/sgqt7/spksim/examples/reference_audio/ref_2.wav
